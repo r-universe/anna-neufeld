@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "countsplit"]
+	path = countsplit
+	url = https://github.com/anna-neufeld/countsplit
 [submodule "splinetree"]
 	path = splinetree
 	url = https://github.com/anna-neufeld/splinetree
